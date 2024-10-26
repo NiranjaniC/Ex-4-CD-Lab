@@ -62,7 +62,8 @@ yyerror(char*s)
 }
 ```
 # Output
-![Screenshot 2024-10-26 102000](https://github.com/user-attachments/assets/2c5bc6b3-e78f-4285-93bf-1cd4c1a52bc4)
+![Screenshot 2024-10-26 103324](https://github.com/user-attachments/assets/7d5257a0-0572-4807-9e04-7150c9e027f4)
+
 
 
 # Result
